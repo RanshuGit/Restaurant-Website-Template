@@ -5,6 +5,6 @@ HTML
 CSS
 # Description
 The Landing page is divided in following section:
-Services
-Our Clients
-Contact Us
+1. Services
+2. Our Clients
+3. Contact Us
